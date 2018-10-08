@@ -2,3 +2,4 @@ Here are a list of technologies I use on day to day basis
 CSS
 Bootstrap
 Javascript 
+Jquerry
